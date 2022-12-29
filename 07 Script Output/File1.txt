@@ -1,0 +1,7 @@
+total 80
+drwxrwxr-x 2 crazed crazed  4096 Apr  6 01:12 .
+drwxrwxr-x 9 crazed crazed  4096 Apr  6 00:40 ..
+-rw-rw-r-- 1 crazed crazed     0 Apr  6 01:12 File1.txt
+-rw-rw-r-- 1 crazed crazed     0 Apr  6 01:12 File2.txt
+-rwxrwxr-x 1 crazed crazed   129 Apr  6 01:12 ScriptOutput.sh
+-rw-rw-r-- 1 crazed crazed 68970 Apr  6 01:02 Stdout.png
