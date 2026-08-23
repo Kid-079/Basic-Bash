@@ -2,4 +2,4 @@
 
 #This is a comments
 
-echo "Test Comments 1"
+echo "Work Hard In Silence"
