@@ -1,6 +1,6 @@
 #! /bin/bash
 
-MESSAGE="Hello People"
+MESSAGE="Work Hard In Silence"
 #MESSAGE="Life Is Never Flat"
 
 export MESSAGE
