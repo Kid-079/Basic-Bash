@@ -6,7 +6,7 @@ echo "Work Hard In Silence"
 #echo "Because Of Your Smile, You Make Life More Beautiful"
 read string1
 
-echo "Little Moments, Big Memories"
+echo "Little Story, Big Dreams"
 #echo "Love Is Wonderful And Makes You Beautiful"
 #echo "There Are So Many Beautiful Reason To Be Happy"
 #echo "Because Of Your Smile, You Make Life More Beautiful"
