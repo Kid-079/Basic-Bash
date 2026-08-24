@@ -8,5 +8,5 @@ function funcShow()
 }
 
 #funcShow FunctionwithArgumen
-funcShow Hello A
-funcShow Hello B
+funcShow Work Hard In Silence
+funcShow Little Moments, Big Memories
