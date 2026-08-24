@@ -9,4 +9,4 @@ function funcShow()
 
 #funcShow FunctionwithArgumen
 funcShow Work Hard In Silence
-funcShow Little Moments, Big Memories
+funcShow Little Story, Big Dreams
