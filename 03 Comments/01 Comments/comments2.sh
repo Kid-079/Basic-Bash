@@ -1,6 +1,6 @@
 #! /bin/bash
 
 : '
-Little Moments, Big Memories'
+Little Story, Big Dreams'
 
 echo "Work Hard In Silence"
