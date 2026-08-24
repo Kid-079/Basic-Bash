@@ -1,4 +1,4 @@
 #! /bin/bash
 
-echo "The Message from SendScript.sh is : $MESSAGE"
+echo "The Message from SendScript1.sh is : $MESSAGE"
 
