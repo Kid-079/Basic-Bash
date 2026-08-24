@@ -2,7 +2,7 @@
 
 cat << Hello
 
-Little Moments, Big Memories
+Little Story, Big Dreams
 Work Hard In Silence
 
 Hello
