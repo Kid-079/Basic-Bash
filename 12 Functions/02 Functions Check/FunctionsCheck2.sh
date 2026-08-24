@@ -10,6 +10,6 @@ function funcCheck()
 funcCheck
 echo $Value
 
-Value="Little Moments, Big Memories"
+Value="Little Story, Big Dreams"
 #Value="Never Give Up Because Great Things Take Time"
 echo $Value
