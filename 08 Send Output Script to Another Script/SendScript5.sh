@@ -1,6 +1,6 @@
 #! /bin/bash
 
-echo "WOrk Hars In Silence"
+echo "Work Hard In Silence"
 #echo "Love Is Wonderful And Makes You Beautiful"
 #echo "There Are So Many Beautiful Reason To Be Happy"
 #echo "Because Of Your Smile, You Make Life More Beautiful"
