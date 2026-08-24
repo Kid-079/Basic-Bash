@@ -11,7 +11,7 @@ function funcShow()
 #funcShow FunctionwithArgument
 
 funcShow Its Not Always Easy But Its Always Worth It
-funcShow Life Is A Journey Make The Best Of It
+funcShow Life Is Journey Make The Best Of It
 funcShow Never Give Up Because Great Things Take Time
 
 
