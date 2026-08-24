@@ -4,7 +4,7 @@ function funcShow()
 {
 	#echo $1
 	#echo $2
-	echo $1 $2
+	echo $1 $2 $3 $4
 }
 
 #funcShow FunctionwithArgumen
