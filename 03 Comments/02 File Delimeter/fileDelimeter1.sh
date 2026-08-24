@@ -2,7 +2,7 @@
 
 cat << Hello
 
-Hello Hello Text 1
-Hello Hello Text 2
+Little Moments, Big Memories
+Work Hard In Silence
 
 Hello
