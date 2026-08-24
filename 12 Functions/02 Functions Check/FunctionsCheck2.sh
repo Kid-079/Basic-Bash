@@ -2,7 +2,7 @@
 
 function funcCheck()
 {
-	Value="This is a String"
+	Value="Work Hard In Silence"
 	#Value="It's Not Always Easy, But It's Always Worth It"
 	#Value="Life Is A Journey Make The Best Of It"
 }
@@ -10,6 +10,6 @@ function funcCheck()
 funcCheck
 echo $Value
 
-Value="Nice String"
+Value="Little Moments, Big Memories"
 #Value="Never Give Up Because Great Things Take Time"
 echo $Value
