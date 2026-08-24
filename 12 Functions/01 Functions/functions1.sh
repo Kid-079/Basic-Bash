@@ -3,7 +3,7 @@
 #Create New Function
 function funcString()
 {
-	echo "This is String"
+	echo "Work Hard In Silence"
 }
 
 funcString
